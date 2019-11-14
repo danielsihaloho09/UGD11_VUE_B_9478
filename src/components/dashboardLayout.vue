@@ -75,7 +75,8 @@
             return {         
                 drawer: null,         
                 items: [           
-                    { title: 'User Controller', icon: 'mdi-human-male' },         
+                    { title: 'User Controller', icon: 'mdi-human-male' },     
+                    { title: 'Vehicels Controller ', icon: 'mdi-car' },       
                 ],       
             }     
         },   

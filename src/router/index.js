@@ -16,7 +16,8 @@ const routes = [
             {           
                 name: 'UserController',           
                 path: '',           
-                component: loadView('userController')         
+                component: loadView('userController')     
+                
             }       
         ]     
     },   
